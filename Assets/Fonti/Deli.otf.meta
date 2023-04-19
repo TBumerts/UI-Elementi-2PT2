@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 828c4fa9e3bbf3749ba7b536779f8dd2
+timeCreated: 1681894622
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Deli
+  fontNames:
+  - Deli
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
