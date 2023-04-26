@@ -4,15 +4,15 @@ Projekts,kura ietvaros apgusim UI elementus veidosanu un darbošanos ar tiem, t�
 
 
 ##Veicamo darbu saraksts:
-- [ ] Input field lietojums
-- [ ] Text elementa lietojums
-- [ ] Button elementa lietojums
-- [ ] Image elementea lietojums
-- [ ] C# skriptu izveide un piesaiste objektiem
-- [ ] Toggle elementu lietojums
-- [ ] Toggle Goup komponentes lietojums
-- [ ] Drop down elementa lietojums
-- [ ] Slider elementa lietojums
+- [x] Input field lietojums
+- [x] Text elementa lietojums
+- [x] Button elementa lietojums
+- [x] Image elementea lietojums
+- [x] C# skriptu izveide un piesaiste objektiem
+- [x] Toggle elementu lietojums
+- [x] Toggle Goup komponentes lietojums
+- [x] Drop down elementa lietojums
+- [x] Slider elementa lietojums
 - [ ] Audio source inegrēšana
 - [ ] Scroll view elementa lietojums
 - [ ] Drag and drop funkcionalitātes ieviešana
