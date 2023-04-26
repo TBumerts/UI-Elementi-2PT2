@@ -35,11 +35,11 @@ public class AtteluParadisana : MonoBehaviour {
     }
     public void paKreisiBins() 
     {
-        binsImg.transform.localScale = new Vector2(2, 2);
+        binsImg.transform.localScale = new Vector2(1, 1);
     }
     public void paLabiBins() 
     {
-        binsImg.transform.localScale = new Vector2(-2, 2);
+        binsImg.transform.localScale = new Vector2(-1, 1);
     }
     public void izkritosais(int skaitlis) 
     {
