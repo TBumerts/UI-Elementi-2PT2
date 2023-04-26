@@ -3,7 +3,7 @@ Projekts,kura ietvaros apgusim UI elementus veidosanu un darbošanos ar tiem, t�
 ![Mr. Bean attēls](https://th.bing.com/th/id/OIP.pZ317y7Jnoi4pSpJ5LUcSwAAAA?pid=ImgDet&rs=1)
 
 
-##Veicamo darbu saraksts:
+## Veicamo darbu saraksts:
 - [x] Input field lietojums
 - [x] Text elementa lietojums
 - [x] Button elementa lietojums
