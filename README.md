@@ -14,8 +14,8 @@ Projekts,kura ietvaros apgusim UI elementus veidosanu un darbošanos ar tiem, t�
 - [x] Drop down elementa lietojums
 - [x] Slider elementa lietojums
 - [ ] Audio source inegrēšana
-- [ ] Scroll view elementa lietojums
-- [ ] Drag and drop funkcionalitātes ieviešana
-- [ ] Pārslēgšanas starp ainām
-- [ ] Objektu ģenerēšana 
-- [ ] Projekta sagatavošana darbināšanai no darbavirsmas (.exe)
+- [x] Scroll view elementa lietojums
+- [x] Drag and drop funkcionalitātes ieviešana
+- [x] Pārslēgšanas starp ainām
+- [x] Objektu ģenerēšana 
+- [x] Projekta sagatavošana darbināšanai no darbavirsmas (.exe)
